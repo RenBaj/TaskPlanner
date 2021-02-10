@@ -1,7 +1,7 @@
 {
   "name": "taskplanner",
   "version": "1.0.0",
-  "description": "A generation project",
+  "description": "Welcome to TaskPlanner, A user-friendly web application developed by Angel Antony and Reny Bajracharya.\r It was the final project for the Generation Australia / Academy Xi \"Front-end Web Development Bootcamp\" undertaken from October 2020 to January 2021.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angelantonyc/TaskPlanner.git"
+    "url": "git+https://github.com/RenBaj/TaskPlanner.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angelantonyc/TaskPlanner/issues"
+    "url": "https://github.com/RenBaj/TaskPlanner/issues"
   },
-  "homepage": "https://github.com/angelantonyc/TaskPlanner#readme",
+  "homepage": "https://github.com/RenBaj/TaskPlanner#readme",
   "devDependencies": {
     "mocha": "^8.2.1"
   }
